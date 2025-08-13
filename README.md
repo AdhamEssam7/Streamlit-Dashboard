@@ -16,14 +16,14 @@ The app provides filters, charts, and quick insights in a clean, responsive UI.
 ## 📂 Project Structure
 ```
 Tips-Dashboard/
-├── tips-dashboard.py        # Main Streamlit app
-├── requirements.txt         # Python dependencies
+├── tips-dashboard.py        
+├── requirements.txt         
 ├── Data/
-│   └── tips.csv             # Dataset file (required)
-├── Images/                  # Optional screenshots for README
-│   ├── bar_chart.png
-│   ├── scatter_plot.png
-│   └── box_plot.png
+│   └── tips.csv             
+├── Images/                  
+│   
+│   
+│   
 └── README.md
 ```
 
