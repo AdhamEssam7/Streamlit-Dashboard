@@ -73,14 +73,6 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
-## 📷 Screenshots (optional)
-Add images under `Images/` and reference them here:
-![Bar Chart](Images/bar_chart.png)
-![Scatter Plot](Images/scatter_plot.png)
-![Box Plot](Images/box_plot.png)
-
----
-
 ## 📝 License
 MIT (feel free to use and modify).
 
